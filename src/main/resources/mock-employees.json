@@ -1,0 +1,122 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "nationality": "DE",
+    "birthDate": "1990-01-15"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Garcia Lopez",
+    "nationality": "ES",
+    "birthDate": "1985-06-23"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Schmidt",
+    "nationality": "DE",
+    "birthDate": "1992-03-10"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Martinez Rodriguez",
+    "nationality": "ES",
+    "birthDate": "1988-11-05"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Müller",
+    "nationality": "DE",
+    "birthDate": "1995-08-17"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Fernandez Gomez",
+    "nationality": "ES",
+    "birthDate": "1983-02-14"
+  },
+  {
+    "firstName": "Klaus",
+    "lastName": "Meier",
+    "nationality": "DE",
+    "birthDate": "1978-12-30"
+  },
+  {
+    "firstName": "Isabel",
+    "lastName": "Lopez Ruiz",
+    "nationality": "ES",
+    "birthDate": "1994-04-07"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Weber",
+    "nationality": "DE",
+    "birthDate": "1987-07-22"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Sanchez Hernandez",
+    "nationality": "ES",
+    "birthDate": "1991-09-19"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Fischer",
+    "nationality": "DE",
+    "birthDate": "1980-03-25"
+  },
+  {
+    "firstName": "Carla",
+    "lastName": "Morales Torres",
+    "nationality": "ES",
+    "birthDate": "1989-05-16"
+  },
+  {
+    "firstName": "Stefan",
+    "lastName": "Becker",
+    "nationality": "DE",
+    "birthDate": "1982-11-13"
+  },
+  {
+    "firstName": "Elena",
+    "lastName": "Gonzalez Martin",
+    "nationality": "ES",
+    "birthDate": "1993-06-28"
+  },
+  {
+    "firstName": "Lena",
+    "lastName": "Hoffmann",
+    "nationality": "DE",
+    "birthDate": "1996-02-04"
+  },
+  {
+    "firstName": "Manuel",
+    "lastName": "Diaz Moreno",
+    "nationality": "ES",
+    "birthDate": "1979-10-31"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Richter",
+    "nationality": "DE",
+    "birthDate": "1997-07-14"
+  },
+  {
+    "firstName": "Antonio",
+    "lastName": "Ruiz Perez",
+    "nationality": "ES",
+    "birthDate": "1986-08-03"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Koch",
+    "nationality": "DE",
+    "birthDate": "1984-05-20"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Torres Gonzalez",
+    "nationality": "ES",
+    "birthDate": "1990-12-02"
+  }
+]
